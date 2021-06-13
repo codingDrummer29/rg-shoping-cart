@@ -1,0 +1,48 @@
+.bg-theme {
+  background-color: #207398;
+}
+
+/* .footer-block {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+} */
+
+/* .btn-here {
+  color: #007bff;
+  background-color: #fff;
+  border-color: #fff;
+} */
+
+.cart-icon {
+  font-size: 1.5rem;
+}
+
+.card-icons {
+  font-size: 5rem;
+}
+
+.hero-background {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.about-background {
+  min-height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn-warning {
+  padding: 5px 35px;
+}
+
+#big-text {
+  display: flex;
+  justify-content: center;
+}
